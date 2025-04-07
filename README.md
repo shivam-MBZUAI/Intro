@@ -59,9 +59,10 @@ Currently, I’m working with Prof. Monojit Choudhury at **MBZUAI**, focusing on
 
 ## 📫 Let's Connect
 
+- Google Scholar: [Shivam](https://scholar.google.com/citations?user=2HjSSTAAAAAJ&hl=en)
 - GitHub: [shivam-MBZUAI](https://github.com/shivam-MBZUAI)  
 - LinkedIn: [shivamiisc2018](https://www.linkedin.com/in/shivamiisc2018/)  
-- Email: 0shivam33@gmail.com  
+- Email: 0shivam33@gmail.com
 
 ---
 
